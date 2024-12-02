@@ -1,0 +1,262 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "name": "Luigi",
+      "game": "Super Mario Bros.",
+      "role": "Frère de Mario",
+      "description": "Luigi est le frère aîné de Mario, connu pour son courage malgré ses peurs.",
+      "image": "luigi.jpeg",
+      "abilities": [
+        "Saut plus haut",
+        "Sprint",
+        "Utilisation de power-ups"
+      ],
+      "price": "19.99$"
+    },
+    {
+      "id": 2,
+      "name": "Yoshi",
+      "game": "Super Mario World",
+      "role": "Compagnon de Mario",
+      "description": "Yoshi est un dinosaure amical qui aide Mario avec ses compétences uniques.",
+      "image": "yochi.jpg",
+      "abilities": [
+        "Manger des ennemis",
+        "Saut élevé",
+        "Utilisation des œufs"
+      ],
+      "price": "22.99$"
+    },
+    {
+      "id": 4,
+      "name": "Toad",
+      "game": "Super Mario Bros.",
+      "role": "Ami et guide",
+      "description": "Toad aide Mario dans ses aventures et est connu pour sa bravoure et son courage.",
+      "image": "toad.jpg",
+      "abilities": [
+        "Saut court mais rapide",
+        "Collecte d’objets",
+        "Connaissance des niveaux"
+      ],
+      "price": "18.99$"
+    },
+    {
+      "id": 6,
+      "name": "Waluigi",
+      "game": "Super Mario Series",
+      "role": "Rival de Luigi",
+      "description": "Waluigi est l'antagoniste de Luigi, connu pour sa malice et son attitude farfelue.",
+      "image": "Waluigi.jpg",
+      "abilities": [
+        "Tactiques sournoises",
+        "Saut rapide",
+        "Utilisation d'objets de manière stratégique"
+      ],
+      "price": "23.99$"
+    },
+    {
+      "id": 7,
+      "name": "Wario",
+      "game": "Super Mario Series",
+      "role": "Rival de Mario",
+      "description": "Wario est le rival de Mario, obsédé par l’argent et le pouvoir. Il est fort et aime les aventures risquées.",
+      "image": "wario.jpg",
+      "abilities": [
+        "Force surhumaine",
+        "Vitesse",
+        "Collection d'objets en or"
+      ],
+      "price": "25.99$"
+    },
+    {
+      "id": 8,
+      "name": "Koopa Troopa",
+      "game": "Super Mario Bros.",
+      "role": "Ennemi classique",
+      "description": "Koopa Troopa est une tortue qui apparaît souvent comme un ennemi dans les jeux Mario.",
+      "image": "Koopa Troopa.jpg",
+      "abilities": [
+        "Coquille résistante",
+        "Saut léger",
+        "Mobilité rapide"
+      ],
+      "price": "15.99$"
+    },
+    {
+      "id": 9,
+      "name": "Bowser",
+      "game": "Super Mario Bros.",
+      "role": "Antagoniste principal",
+      "description": "Bowser est le principal ennemi de Mario, un puissant roi des Koopa.",
+      "image": "bowser.jpeg",
+      "abilities": [
+        "Feu explosif",
+        "Attaque puissante",
+        "Protection du château"
+      ],
+      "price": "29.99$"
+    },
+    {
+      "id": 10,
+      "name": "Shy Guy",
+      "game": "Super Mario Series",
+      "role": "Ennemi caché",
+      "description": "Shy Guy est un personnage timide souvent vêtu d’un masque et qui se cache derrière son apparence mystérieuse.",
+      "image": "Shy Guy.jpg",
+      "abilities": [
+        "Discrétion",
+        "Attaque furtive",
+        "Mobilité rapide"
+      ],
+      "price": "17.99$"
+    },
+    {
+      "id": 11,
+      "name": "Kirby",
+      "game": "Kirby's Dream Land",
+      "role": "Héros rondouillard et gourmand",
+      "description": "Kirby est un petit personnage rond et rose, capable d'aspirer ses ennemis et d'absorber leurs pouvoirs.",
+      "image": "kirby.jpg",
+      "abilities": [
+        "Aspiration d'ennemis",
+        "Absorption de pouvoirs",
+        "Vol"
+      ],
+      "price": "14.99$"
+    },
+    {
+      "id": 12,
+      "name": "Poochy",
+      "game": "Yoshi's Woolly World",
+      "role": "Chien compagnon de Yoshi",
+      "description": "Poochy est un chien tout doux et affectueux qui accompagne Yoshi dans ses aventures.",
+      "image": "poochy.jpg",
+      "abilities": [
+        "Sauter avec Yoshi",
+        "Attaque rapide",
+        "Course rapide"
+      ],
+      "price": "16.99$"
+    },
+    {
+      "id": 18,
+      "name": "Chica",
+      "game": "Five Nights at Freddy's",
+      "role": "Animatronique poule",
+      "description": "Chica est une animatronique agressive qui aime manger de la pizza. Elle apparaît souvent pour effrayer le joueur.",
+      "image": "chica.jpg",
+      "abilities": [
+        "S'infiltre silencieusement",
+        "Brise la porte pour attaquer",
+        "Capacité à se déplacer rapidement"
+      ],
+      "price": "27.00$"
+    },
+    {
+      "id": 20,
+      "name": "Golden Freddy",
+      "game": "Five Nights at Freddy's",
+      "role": "Animatronique spectral",
+      "description": "Golden Freddy est une version fantomatique de Freddy, apparaissant soudainement et déclenchant des événements paranormaux.",
+      "image": "GOLDEN FREDDY.jpg",
+      "abilities": [
+        "Apparitions soudaines",
+        "Effets paranormaux",
+        "Peut apparaître et disparaître"
+      ],
+      "price": "35.00$"
+    },
+    {
+      "id": 21,
+      "title": "Super Mario Odyssey",
+      "platform": "Nintendo Switch",
+      "price": 59.99,
+      "description": "Mario explore différents royaumes pour sauver la princesse Peach.",
+      "image": "Super Mario Odyssey .jpg"
+    },
+    {
+      "id": 22,
+      "title": "The Legend of Zelda: Breath of the Wild",
+      "platform": "Nintendo Switch",
+      "price": 59.99,
+      "description": "Explore Hyrule dans cette aventure épique.",
+      "image": "The Legend of Zelda_com.jpg"
+    },
+    {
+      "id": 23,
+      "title": "Horizon Forbidden West",
+      "platform": "PlayStation 5",
+      "price": 69.99,
+      "description": "Une aventure post-apocalyptique avec des robots gigantesques et un monde magnifique.",
+      "image": "Forbidden West.jpg"
+    },
+    {
+      "id": 24,
+      "title": "God of War: Ragnarök",
+      "platform": "PlayStation 5",
+      "price": 69.99,
+      "description": "Kratos et Atreus affrontent des dieux nordiques dans cette épopée spectaculaire.",
+      "image": "godofwar.jpg"
+    },
+    {
+      "id": 25,
+      "title": "Final Fantasy XVI",
+      "platform": "PlayStation 5",
+      "price": 79.99,
+      "description": "Un monde fantastique rempli de magie, de batailles épiques et d'invocations mythiques.",
+      "image": "Final Fantasy XVI .jpg"
+    },
+    {
+      "id": 27,
+      "title": "Elden Ring",
+      "platform": "PlayStation, Xbox, PC",
+      "price": 59.99,
+      "description": "Un monde ouvert sombre et mystérieux créé par FromSoftware et George R.R. Martin.",
+      "image": "Elden Ring .jpg"
+    },
+    {
+      "id": 28,
+      "title": "Sonic Frontiers",
+      "platform": "PlayStation, Xbox, Nintendo Switch, PC",
+      "price": 59.99,
+      "description": "Sonic explore un monde ouvert pour la première fois et fait face à de nouveaux défis.",
+      "image": "Sonic Frontiers .jpg"
+    },
+    {
+      "id": 29,
+      "title": "Spider-Man 2",
+      "platform": "PlayStation 5",
+      "price": 69.99,
+      "description": "Spider-Man affronte des menaces de taille tout en jonglant avec sa vie personnelle.",
+      "image": "SPIDER-MAN 2 – .jpg"
+    },
+    {
+      "id": 30,
+      "title": "Super Smash Bros. Ultimate",
+      "platform": "Nintendo Switch",
+      "price": 59.99,
+      "description": "Le jeu de combat ultime avec tous les personnages de Nintendo et bien plus.",
+      "image": "Super Smash Bros.jpg"
+    },
+    {
+      "id": 45,
+      "title": "New Super Lucky's Tale",
+      "platform": "Nintendo Switch, Xbox One, PlayStation 4, PC",
+      "price": 29.99,
+      "description": "Rejoignez Lucky, un jeune renard, dans une aventure à travers des mondes colorés, des puzzles, et des boss uniques pour sauver sa sœur.",
+      "image": "New Super Lucky's Tale _ Games _ bol_com.jpg"
+    },
+    {
+      "id": 49,
+      "name": "Five Nights at Freddy's 4",
+      "platform": "PC, PS4, Xbox One, Nintendo Switch, Mobile",
+      "genre": "Horreur, Survival",
+      "release_date": "2015-07-23",
+      "price": "26.99$",
+      "description": "Le joueur se retrouve dans la chambre d'un enfant, faisant face à des animatroniques plus terrifiants dans un cadre encore plus effrayant.",
+      "image": "Five Nights at Freddy's_ Security Breach (PS4).jpg"
+    }
+  ]
+}
